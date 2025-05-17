@@ -1,5 +1,4 @@
 # Sui_Ghana_Bootcamp_c2
-# Lion.sui
 
 ## Sui Ghana Bootcamp - Function Examples Project
 
