@@ -1,5 +1,7 @@
 // This is a Move module - a collection of related functions and data structures
 // The module name is prefixed with the package name: functionexample::functionexample
+
+#[allow(unused_use)]
 module functionexample::functionexample{
     // Import the debug module from the standard library to enable printing values
     use std::debug;

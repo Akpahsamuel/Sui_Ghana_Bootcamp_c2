@@ -1,13 +1,16 @@
+
+#[allow(unused_const)]
 module functionexample::structsexample{
     // use sui::object::{Self, UID};
     // use sui::tx_context::{Self, TxContext};
 
-       use std::string::{Self, String};
+       use std::string::String;
 
 // Constants representing names - these are byte arrays that can be converted to strings
 // const StudentA: vector<u8> = b"samuel kofi";
 // const StudentB: vector<u8> = b"samuel kofi";
 // const StudentC: vector<u8> = b"samuel kofi";
+
 const PersonA: vector<u8> = b"samuel Atta";
 const PersonB: vector<u8> = b"samuel Atta";
 
