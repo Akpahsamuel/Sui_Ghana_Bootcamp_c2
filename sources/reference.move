@@ -6,6 +6,8 @@
 /// - Immutable references (read-only access)
 /// - Mutable references (read-write access)
 /// - Working with multiple references
+
+#[allow(duplicate_alias)]
 module functionexample::reference{
     // Import the object module to create unique identifiers
     use sui::object::{Self, UID};
